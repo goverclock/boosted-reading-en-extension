@@ -1,0 +1,13 @@
+{
+    "name": "Boosted Reading EN",
+    "description": "Read English content faster.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "scripting",
+        "tabs"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
